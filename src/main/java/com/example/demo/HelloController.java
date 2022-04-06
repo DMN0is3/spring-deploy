@@ -32,7 +32,7 @@ public class HelloController {
                   </head>
                   <body>
                     <h1>Prueba en Heroku</h1>
-                    <a class="btn btn-primary" href="https://www.google.es">Google</a>
+                    <a class="btn btn-primary" href="https://www.google.es" target="_blanc">Google</a>
                     <!-- Optional JavaScript; choose one of the two! -->
                                 
                     <!-- Option 1: Bootstrap Bundle with Popper -->
